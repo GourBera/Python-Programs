@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping pattern="sbr_structure" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
