@@ -17,6 +17,7 @@
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="db-errs" type="PLAIN_TEXT" />
       <mapping ext="cln" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
